@@ -37,7 +37,6 @@
  <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/ireport.png"/>
  <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/springdatajpa.png"/>
  <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/restapi.png"/>
- <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/restapi.png"/>
  <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/springsecurity.png"/>
    
   
