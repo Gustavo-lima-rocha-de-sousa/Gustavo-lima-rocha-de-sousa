@@ -1,8 +1,8 @@
-## Olá, sejam bem vindos!
+## Hello! Welcome!
 
-### Me Chamo Gustavo,
-##### Sou apaixonado por tecnologia e programação desde que a descobri. Com formação técnica em Análise e Desenvolvimento de Sistemas, atualmente estou em processo de formação para me tornar um desenvolvedor Full-Stack com especialidade em Desenvolvimento Java. <br/>
-##### Meu objetivo é absorver o máximo de conhecimento na área de programação e aprimorar cada dia mais os meus códigos, trazendo soluções limpas e práticas para qualquer desafio  proposto pelas demandas do mercado.
+### My name is Gustavo,
+##### I've been passionate about technology and programming since I discovered it. With a technical background in Systems Analysis and Development, I am currently in the process of training to become a Full-Stack developer with a specialty in Java Development. <br/>
+##### My goal is to absorb as much knowledge as possible in the programming area and improve my codes every day, bringing clean and practical solutions to any challenge.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lima-rocha-de-sousa-181616220/)
 
@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-lima-rocha-de-sousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que eu uso no meu dia! 
+## Technologies that I use in my day!
 
 <div style="display: inline_block"><br/>
  <img  align="center" alt="html5" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
@@ -40,7 +40,7 @@
   
 </div><br/>  
 
-#### Desenvolvedor Java Web FullStack Jr.
+#### Java Web Developer FullStack Jr.
 
 
 
