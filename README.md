@@ -31,11 +31,7 @@
  <img  align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
  <img  align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
  <img  align="center" alt="html5" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>  
- <img  align="center" alt="html5" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>  
- <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/springdatajpa.png"/>
- <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/restapi.png"/>
- <img  align="center" alt="html5" src="https://www.jdevtreinamento.com.br/formacao-java-web-profissional/icones/springsecurity.png"/>
-   
+ <img  align="center" alt="html5" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>    
   
 </div><br/>  
 
