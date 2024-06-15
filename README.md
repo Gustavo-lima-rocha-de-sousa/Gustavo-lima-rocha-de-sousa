@@ -37,6 +37,3 @@
 
 #### Java Web Developer FullStack Jr.
 
-
-
-![snake gif](https://github.com/Gustavo-lima-rocha-de-sousa/Gustavo-lima-rocha-de-sousa/blob/output/github-contribution-grid-snake.gif)
