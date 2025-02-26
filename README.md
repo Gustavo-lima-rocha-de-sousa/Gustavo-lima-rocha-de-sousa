@@ -29,5 +29,4 @@
  <img  align="center" alt="html5" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>  
 
-#### Java Web Developer FullStack Jr.
 
